@@ -1,4 +1,7 @@
 SQL PROJECT- MUSIC STORE DATA ANALYSIS
+
+<img src="https://i.pinimg.com/originals/86/7d/27/867d27e0a50b551ae8d1f4acc7943f46.gif" alt="Girl in a jacket" width="1200" height="300">
+
 Question Set 1 - Easy
 1. Who is the senior most employee based on job title?
 2. Which countries have the most Invoices?
