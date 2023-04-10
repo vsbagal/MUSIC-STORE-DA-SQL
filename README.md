@@ -30,7 +30,4 @@ customer name, artist name and total spent
 most popular genre as the genre with the highest amount of purchases. Write a query 
 that returns each country along with the top Genre. For countries where the maximum 
 number of purchases is shared return all Genres
-3. Write a query that determines the customer that has spent the most on music for each 
-country. Write a query that returns the country along with the top customer and how
-much they spent. For countries where the top amount spent is shared, provide all 
-customers who spent this amount
+
